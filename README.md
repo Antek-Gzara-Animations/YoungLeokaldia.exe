@@ -1,3 +1,3 @@
 # YoungLeokaldia.exe
 
-losowo biegająca young leosia po ekranie i szklanki
+losowo poruszające się po ekranie okno i szklanki w tle
