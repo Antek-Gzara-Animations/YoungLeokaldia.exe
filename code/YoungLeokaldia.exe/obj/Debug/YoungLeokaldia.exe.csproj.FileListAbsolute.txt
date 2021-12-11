@@ -1,0 +1,14 @@
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\bin\Debug\YoungLeokaldia.exe.exe.config
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\bin\Debug\YoungLeokaldia.exe.exe
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\bin\Debug\YoungLeokaldia.exe.pdb
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.csproj.AssemblyReference.cache
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.Form1.resources
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.Properties.Resources.resources
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.csproj.GenerateResource.cache
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.csproj.CoreCompileInputs.cache
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.exe
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.pdb
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\bin\Debug\YoungLeokaldia.exe.exe.manifest
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\bin\Debug\YoungLeokaldia.exe.application
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.exe.manifest
+C:\Users\Activcom\source\repos\YoungLeokaldia.exe\YoungLeokaldia.exe\obj\Debug\YoungLeokaldia.exe.application
